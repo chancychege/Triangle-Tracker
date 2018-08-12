@@ -1,8 +1,6 @@
 # Triangle Tracker
 #### This website has been created by me ChancyChege to help people identify Isosceles, Equilateral and Scalene triangles
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want user#
-## Description
 As said previously its been created to help identify triangles that are either Isosceles, Equilateral, Scalene and or if it's even a triangle after all.
 ## Setup/Installation Requirements
 * No setup or Installation required
