@@ -15,17 +15,6 @@ else if((a+b)<= c || (a+c)<=b || (b+c)<=a) {
 alert("Not a Triangle");
 }
 else if((a+b)>=c && (b+c)>=a && (a+c)>=b {
-  alert("Scalene");
+  alert("Scalene");}
 }
-{
-  else if ((a+b)<=c &&
-
-  }
-  {
-  else {
-        alert("value entered must be a number")
-  }
-  }
-}
-
 getTriangle();
